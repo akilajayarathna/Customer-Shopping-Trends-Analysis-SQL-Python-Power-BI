@@ -32,7 +32,7 @@ The workflow follows a typical analyst pipeline:
 
 1. Clone the repository
    ```
-   git clone [<your-repo-url>](https://github.com/akilajayarathna/Customer-Shopping-Trends-Analysis-SQL-Python-Power-BI.git)
+   git clone https://github.com/akilajayarathna/Customer-Shopping-Trends-Analysis-SQL-Python-Power-BI.git
    cd Customer-Shopping-Trends-Analysis-SQL-Python-Power-BI
    ```
 2. Open `Customer_Shopping_Behavior_Analysis.ipynb` and run through the data import, cleaning, and exploration steps.
